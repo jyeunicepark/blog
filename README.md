@@ -8,6 +8,6 @@
 
 [Bookshelf](https://jyeunicepark.github.io/bookshelf)
 
-[Instagram](https://www.instagram/com/alwayscarryabo0k)
+[Instagram](https://www.instagram.com/alwayscarryabo0k)
 
 
