@@ -2,11 +2,11 @@
 
 
 
-[About](https://jyeunicepark.github.io/about.md)
+[About](https://jyeunicepark.github.io/about)
 
-[Projects](https://jyeunicepark.github.io/project.md)
+[Projects](https://jyeunicepark.github.io/project)
 
-[Bookshelf](https://jyeunicepark.github.io/bookshelf.md)
+[Bookshelf](https://jyeunicepark.github.io/bookshelf)
 
 [Instagram](https://www.instagram/com/alwayscarryabo0k)
 
