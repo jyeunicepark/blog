@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Eunice Park
+header_pages:
+  - about.md
+  - project.md
+  - bookshelf.md
