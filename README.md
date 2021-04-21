@@ -1,6 +1,7 @@
-### Eunice Park 
-
-
+---
+layout: home
+title: Eunice Park
+---
 
 [About](https://jyeunicepark.github.io/about.md)
 
