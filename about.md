@@ -7,5 +7,7 @@ I just started to learn how to code and will be enrolling Information Systems Mg
 You can also find me at: 
 
 Linkedin - [Eunice Park](https://linkedin.com/in/eunicepark01)
-Instagram - [jyeunicepark](https://www.instagram.com/jyeunicepark)
+
 Goodreads - [eunicepark01](https://www.goodreads.com/eunicepark01)
+
+Instagram - [Always Carry A Bo0k](https://www.instagram.com/alwayscarryabo0k)
