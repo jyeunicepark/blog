@@ -1,4 +1,4 @@
-### Eunice Park
+### Welcome to my webpage!
 
 [About](about.md)
 
