@@ -1,7 +1,7 @@
 ### Eunice Park 
 
 [About](https://jyeunicepark.github.io/about)
-[Projects]
+[Projects](https://jyeunicepark.github.io/project)
 [Courses]
 [Bookshelf] 
 [Essays]
