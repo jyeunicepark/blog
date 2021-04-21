@@ -2,7 +2,7 @@
 
 [About](about.md)
 
-[Projects](project.md)
+[Projects](projects.md)
 
 [Bookshelf](bookshelf.md)
 
