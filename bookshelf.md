@@ -1,0 +1,63 @@
+If you know me, you'd know I love to read. Alot of my friends ask me for book recommendations, and so I have decided to share them here too. 
+
+- A Gentleman in Moscow
+- The Culture Code: The Secrets of Highly Successful Group
+- Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+- The Lessons of History
+- Shoe Dog
+- Future of Capitalism: Facing the New Anxieties
+- Runaway 
+- What It Takes
+- The Coddling of the American Mind
+- The Age of Surveillance Capitalism 
+- Retreat of Western Liberalism 
+- How To Be Alone
+- Think Like a Freak
+- Liquid Love
+- Zero To One
+- Books v. cigarettes 
+- The Bluest Eye
+- The Body: A Guide for Occupants
+- The Everything Store
+- I Know Why The Caged Bird Sings
+- Range: Why Generalists Triumph in a Specialized World
+- The Paper Menagerie and Other Stories
+- Dear Life
+- If This Isn't Nice, Then What Is?: Advice to the Young --- The Graduation Speeches
+- Feel Free: Essays
+- The Year of Magical Thinking
+- Spark!: How exercise will improve the performance of your brain
+- Good Day? 
+- Principles: Life and Work
+- Where the Crawdads Sing
+- Becoming
+- Normal People
+- Convenience Store Woman
+- The Gulag Archipelago
+- The Jungle
+- Omnivore's Dilemma: A Natural History of Four Meals
+- Educated
+- Rules of Civility
+- Grit: The Power of Passion and Perseverance
+- This is Marketing: You Can't Be Seen Until You Learn to See
+- Mating in Captivity: Unlocking Erotic Intelligence
+- Interpreter of Maladies
+- Hooked: How to Build Habit-Forming Products
+- Dollars and Sense: How We Misthink Money and How to Spend Smarter
+- The Shadow of the Wind
+- You Should Have Left
+- The Unbearable Lightness of Being
+- This Is How You Lose Her
+- A Little Life
+- The Goldfinch
+- Thank You For Being Late: An Optimist's Guide to Thriving in the Age of Accelerations
+- Sapiens: A Brief History of Humankind
+- Status Anxiety
+- Sophie's World: A Novel About the History of Philosophy
+- A Man Called Ove
+- Eleanor Oliphant is Completely Fine
+- Mindset: The New Psychology of Success
+- A Thousand Splendid Suns
+- Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics
+- When Breath Becomes Air
+- 
