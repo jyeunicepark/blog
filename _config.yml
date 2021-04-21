@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+title: Eunice Park
+
+markdown: kramdown
+theme: minimal
