@@ -1,7 +1,5 @@
 If you know me, you'd know I love to read. Alot of my friends ask me for book recommendations, and so I have decided to share them here too. 
 
-Your recommendations are always [welcome](mailto: jyeunicepark@gmail.com) 
-
 - A Gentleman in Moscow
 - The Culture Code: The Secrets of Highly Successful Group
 - Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
