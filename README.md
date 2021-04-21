@@ -1,10 +1,7 @@
 ### Eunice Park 
 
-[About](https://jyeunicepark.github.io/about)
-[Projects](https://jyeunicepark.github.io/project)
+[About](https://jyeunicepark.github.io/about.md)
+[Projects](https://jyeunicepark.github.io/project.md)
 [Courses]
 [Bookshelf] 
-[Essays]
-[Travel]
-[Questions]
-[Social Media] 
+
