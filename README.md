@@ -1,11 +1,9 @@
 ### Eunice Park
 
-[About](https://jyeunicepark.github.io/about.md)
+[About](about.md)
 
-[Projects](https://jyeunicepark.github.io/project.md)
+[Projects](project.md)
 
-[Bookshelf](https://jyeunicepark.github.io/bookshelf.md)
-
-[Instagram](https://www.instagram.com/alwayscarryabo0k)
+[Bookshelf](bookshelf.md)
 
 
