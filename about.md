@@ -1,14 +1,14 @@
 About
 
-Hi, my name is Eunice Park. I live in HK, and majored in Hotel Management. 
-
-Loved it but decided not to take it seriously as a career. 
-
-I currently work as a financial data associate at a financial services company. 
+Hi, my name is Eunice Park. I live in HK and work full-time as a financial data associate. 
 
 I just started to learn how to code and will be enrolling Information Systems Mgt (part-time) this fall. 
 
-You can also find me at: 
+I also love reading/writing, and this is where I will share my books, my projects, and my thoughts. 
+
+
+
+Please feel free to send me your book recommendations through accounts below:
 
 Linkedin - [Eunice Park](https://linkedin.com/in/eunicepark01)
 
