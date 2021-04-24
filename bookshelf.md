@@ -6,7 +6,7 @@ This is a quote engraved in a large stone set upon the entrance of what is known
 
 I truly believe in the power of reading, and the development/enrichment it can bring about in humanity. 
 
-When I first learned about the Great Books program offered by St. John's College, I knew it was the education that I needed so badly, but I was more than half way through my bachelor's degree in HK, plus flying to US for another degree at the time wasn't feasible. 
+When I first learned about the [Great Books program](https://www.sjc.edu/academic-programs/undergraduate/great-books-reading-list) offered by St. John's College, I knew it was the education that I needed so badly, but I was more than half way through my bachelor's degree in HK, plus flying to US for another degree at the time wasn't feasible. 
 
 So I made the decision to take it up to my own hands and devise my own Great Books program (at least in its format for now). 
 
