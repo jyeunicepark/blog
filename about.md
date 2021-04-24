@@ -1,10 +1,11 @@
 About
 
-Hi, my name is Eunice Park. I live in HK and work full-time as a financial data associate. 
 
-I just started to learn how to code and will be enrolling Information Systems Mgt (part-time) this fall. 
+Hi, my name is Eunice. 
 
-I also love reading/writing, and this is where I will share my books, my projects, and my thoughts. 
+I love reading + writing, and most importantly, giving myself a good education. 
+
+I just started to learn how to code and this is where I will share my books, my projects, and my thoughts. 
 
 
 
