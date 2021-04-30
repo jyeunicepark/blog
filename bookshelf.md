@@ -14,7 +14,7 @@ Below is a list of books I have read since 2018, which was when I started to cha
 
 If my initial goal was to read more, the next was to read more and widely, and now it is to read widely and also in depth. 
 
-I am still struggling to incorporate the Classics which are the tenements of St John's Great Books program, but will surely read at least 5 books (excluding the Bible, both Old and New Testament, which I read daily as a Christian). 
+I am still struggling to incorporate the Classics which are the tenements of St John's Great Books program, but will surely read at least 5 books (excluding the Bible, both Old and New Testament, which I read daily). 
 
 Highly recommended books are in **bold**
 
@@ -83,3 +83,11 @@ Highly recommended books are in **bold**
 - The Ride of A Lifetime
 - Storm in a Teacup
 - The Last Lecture 
+- Can't Hurt Me 
+- **every book written by Malcolm Gladwell**
+- Hooked
+- To Sell is Human
+- Never Split the Difference
+- **This is Marketing**
+- Invisible Influence 
+- Educated
