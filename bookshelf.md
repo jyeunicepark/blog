@@ -1,5 +1,3 @@
-If you know me, you'd know I love to read. 
-
 "사람이 책을 만들고 책이 사람을 만든다 (Men make books and books make men)." 
 
 This is a quote engraved in a large stone set upon the entrance of what is known as a hallmark bookshop at the center of Seoul city. 
@@ -91,3 +89,9 @@ Highly recommended books are in **bold**
 - **This is Marketing**
 - Invisible Influence 
 - Educated
+- Can't Hurt Me 
+- What If This Were Enough 
+- **Narrative Economics**
+- Kane and Abel 
+- **What I Talk About When I Talk About Running**
+- **Investing: The Last Liberal Art**
