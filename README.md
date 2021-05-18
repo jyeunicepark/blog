@@ -1,4 +1,4 @@
-### Welcome to my webpage!
+### Welcome to my git page!
 
 [About](about.md)
 
