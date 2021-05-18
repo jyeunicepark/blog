@@ -6,5 +6,4 @@
 
 [Bookshelf](bookshelf.md)
 
-[Book Reviews](bookreview_wordspress.md)
 
