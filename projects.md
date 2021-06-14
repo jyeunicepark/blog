@@ -10,4 +10,4 @@ In learning how to code, my goal is to:
 - work on at least 5 business application projects in 2021
 - become comfortable in data cleaning (Python) for data analysis  
 - know how to perform web scraping 
-- use Python / SQL / Ruby to visualize data findings
+- use Python & SQL to visualize data findings
