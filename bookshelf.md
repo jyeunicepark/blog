@@ -66,7 +66,7 @@ Highly recommended books are in **bold**
 - Storm in a Teacup
 - The Last Lecture 
 - Can't Hurt Me 
-- **every book written by Malcolm Gladwell**
+- **anything written by Malcolm Gladwell**
 - Hooked
 - To Sell is Human
 - Never Split the Difference
@@ -79,3 +79,8 @@ Highly recommended books are in **bold**
 - Kane and Abel 
 - **What I Talk About When I Talk About Running**
 - **Investing: The Last Liberal Art**
+- King of Capital 
+- The Four 
+- The Culture Code 
+- The Ride of a Lifetime
+- **movie reviews written by Roger Ebert**
