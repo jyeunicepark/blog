@@ -1,6 +1,6 @@
 ### Projects 
 
-So far I've only completed a few projects related to data analytics / cleaning with the help of an online course (Dataquest). 
+Here are a few projects related to data analytics / cleaning I've completed 
 
 You can see them [here](https://github.com/jyeunicepark). 
 
