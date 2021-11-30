@@ -1,5 +1,7 @@
 You can find me @[Goodreads](https://www.goodreads.com/eunicepark01) for books I am currently reading and my to-be read list 
 
+(last updated: Aug 2021)
+
 Highly recommended books are in **bold**
 
 - **A Gentleman in Moscow**
