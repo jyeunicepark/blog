@@ -1,5 +1,5 @@
 About
 
-This github page is where I collect and consolidate my projects in coding, data analysis, and reading
+This github is mainly for archiving my courseworks, projects, and reading list. 
 
 :)
