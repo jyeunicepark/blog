@@ -6,6 +6,4 @@
 
 [Bookshelf](bookshelf.md)
 
-[Book Reviews (WordPress)](bookreviews.md)
-
 
