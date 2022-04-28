@@ -1,13 +1,13 @@
 ### Projects 
 
-Here are a few projects related to data analytics / cleaning I've completed 
+Here are a few projects related to data analytics I've completed 
 
 You can see them [here](https://github.com/jyeunicepark). 
 
-In learning how to code, my goal is to: 
+Through my journey on learning how to code, my goals are to: 
 
-- keep track of all the projects worked on during school years (2021-2023)
-- work on at least 5 business application projects in 2021
-- become comfortable in data cleaning (Python) for data analysis  
-- know how to perform web scraping 
+- practice data cleaning (Python) for data analysis  
+- perform web scraping 
 - use Python & SQL to visualize data findings
+- keep track of all the projects worked on during school years (2021-2023) 
+- consolidate and arrange projects so github can become a portfolio
