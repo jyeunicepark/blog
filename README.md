@@ -1,4 +1,6 @@
-### Welcome to my git page 
+
+## Eunice Park
+#### Welcome to my git page!
 
 [About](about.md)
 
