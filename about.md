@@ -1,5 +1,5 @@
 About
 
-This github is mainly for archiving my courseworks, projects, and reading list. 
+This github currently serves as an archive of my courseworks, projects, and reading list. 
 
-:)
+Working on more contents for this blog... :)
