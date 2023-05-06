@@ -1,10 +1,7 @@
 
-## Eunice Park
-#### Welcome to my git page!
+### Eunice Park
 
 [About](about.md)
-
-[Projects](projects.md)
 
 [Bookshelf](bookshelf.md)
 
