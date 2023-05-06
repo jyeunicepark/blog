@@ -1,16 +1,36 @@
-You can find me @[Goodreads](https://www.goodreads.com/eunicepark01) for books I am currently reading and my to-be read list 
+I always read, or at least always carry a book or two. Some are great, some are absolutely horrendous, some are not my cup of tea. 
 
-(last updated: Aug 2021)
+I have been trying to come up with a nice list of books now and then to share with my friends and family. And below is the result thereof. 
+
+I also secretly keep a list of DO NOT READ books, but you'll have to find me in person and buy me a cup of coffee for me to give you that.  
+
+(last updated: May 2023)
 
 Highly recommended books are in **bold**
 
+- **This Is How They Tell Me The World Ends"
+- The Anomaly
+- The Candy House 
+- First Person Singular
+- Novelist as a Vocation
+- **The Code Breaker**
+- **Flash Boys**
+- **Survivor / Unsteady Earth / In Foreign Lands, Trees Speak Arabic**
+- The Years
+- **Libra**
+- **White Noise**
+- The Red-Haired Woman
+- The Lowland
+- The Anthropocene Reviewed
+- Free Food for Millionaries
+- Expatriates
 - **A Gentleman in Moscow**
 - The Culture Code: The Secrets of Highly Successful Group
 - **Hillbilly Elegy: A Memoir of a Family and Culture in Crisis**
 - **The Lessons of History**
 - Shoe Dog
 - **Future of Capitalism: Facing the New Anxieties**
-- Runaway 
+- **Runaway** 
 - What It Takes
 - **The Coddling of the American Mind**
 - The Age of Surveillance Capitalism 
