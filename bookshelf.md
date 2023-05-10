@@ -2,13 +2,14 @@ I always read, or at least always carry a book or two. Some are great, some are 
 
 I have been trying to come up with a nice list of books now and then to share with my friends and family. And below is the result thereof. 
 
-I also secretly keep a list of DO NOT READ books, but you'll have to find me in person and buy me a cup of coffee for me to give you that.  
+I also secretly keep a list of DO NOT READ books, but... that'll be for another time
+
 
 (last updated: May 2023)
 
 Highly recommended books are in **bold**
 
-- **This Is How They Tell Me The World Ends"
+- **This Is How They Tell Me The World Ends**
 - The Anomaly
 - The Candy House 
 - First Person Singular
