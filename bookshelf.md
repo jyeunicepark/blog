@@ -5,10 +5,13 @@ I have been trying to come up with a nice list of books now and then to share wi
 I also secretly keep a list of DO NOT READ books, but... that'll be for another time
 
 
-(last updated: May 2023)
+(last updated: July 2023)
 
 Highly recommended books are in **bold**
 
+- **The Road**
+- **Stoner**
+- **Chip War**
 - **This Is How They Tell Me The World Ends**
 - The Anomaly
 - The Candy House 
@@ -87,7 +90,7 @@ Highly recommended books are in **bold**
 - **Prisoners of Geography: Ten Maps That Tell You Everything You Need to Know About Global Politics**
 - When Breath Becomes Air
 - Zealot 
-- The Ride of A Lifetime
+- **Bird by Bird**
 - Storm in a Teacup
 - The Last Lecture 
 - Can't Hurt Me 
